@@ -1,0 +1,2 @@
+hello java
+git checkout -b 'branchName'   ----------->>>> to create a new branch and switch to new branch
